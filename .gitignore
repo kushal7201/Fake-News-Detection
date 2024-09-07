@@ -1,0 +1,7 @@
+*.csv
+*.pkl
+*.keras
+*.bin
+/model
+/myenv
+glove.6B.50d.txt
