@@ -4,4 +4,5 @@
 *.bin
 /model
 /myenv
+/venv
 glove.6B.50d.txt
